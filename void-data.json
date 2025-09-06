@@ -10,7 +10,7 @@
   "channels": [
     {
       "id": "general",
-      "name": "general",
+      "name": "test",
       "description": "Welcome to The Void - A place for everything"
     },
     {
@@ -72,6 +72,17 @@
       "file": null,
       "link": null,
       "timestamp": "2025-09-06T14:53:10.750097"
+    },
+    {
+      "id": "msg_1757151509",
+      "channelId": "secrets",
+      "userId": "user_1757148531",
+      "userName": "wekilledtheunicorns",
+      "userAvatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "content": "hiiii",
+      "file": null,
+      "link": null,
+      "timestamp": "2025-09-06T15:08:29.771207"
     }
   ]
 }
