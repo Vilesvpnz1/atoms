@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "user_1757148531",
+      "name": "wekilledtheunicorns",
+      "avatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "canTalk": true
+    }
+  ],
+  "channels": [
+    {
+      "id": "general",
+      "name": "general",
+      "description": "Welcome to The Void - A place for everything"
+    },
+    {
+      "id": "secrets",
+      "name": "secrets",
+      "description": "Classified information and hidden knowledge"
+    },
+    {
+      "id": "proxies",
+      "name": "proxies",
+      "description": "Proxy servers and bypass tools"
+    },
+    {
+      "id": "tools",
+      "name": "tools",
+      "description": "Useful utilities and scripts"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_1757149615",
+      "userId": "user_1757148531",
+      "userName": "wekilledtheunicorns",
+      "userAvatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "content": "hi",
+      "file": null,
+      "link": null,
+      "timestamp": "2025-09-06T14:36:55.876321"
+    },
+    {
+      "id": "msg_1757149923",
+      "channelId": "general",
+      "userId": "user_1757148531",
+      "userName": "wekilledtheunicorns",
+      "userAvatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "content": "hi",
+      "file": null,
+      "link": null,
+      "timestamp": "2025-09-06T14:42:03.696849"
+    },
+    {
+      "id": "msg_1757150101",
+      "channelId": "general",
+      "userId": "user_1757148531",
+      "userName": "wekilledtheunicorns",
+      "userAvatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "content": "hi",
+      "file": null,
+      "link": null,
+      "timestamp": "2025-09-06T14:45:01.508728"
+    },
+    {
+      "id": "msg_1757150590",
+      "channelId": "general",
+      "userId": "user_1757148531",
+      "userName": "wekilledtheunicorns",
+      "userAvatar": "https://i.pinimg.com/236x/85/18/ca/8518ca4f01ff414bb3ac70d22835003c.jpg",
+      "content": "hi",
+      "file": null,
+      "link": null,
+      "timestamp": "2025-09-06T14:53:10.750097"
+    }
+  ]
+}
